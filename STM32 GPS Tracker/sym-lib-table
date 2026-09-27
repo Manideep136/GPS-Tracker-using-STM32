@@ -1,0 +1,9 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "SIM808") (type "KiCad") (uri "${KIPRJMOD}/Files/SIM808.kicad_sym") (options "") (descr ""))
+	(lib (name "U.FL-R-SMT_01_") (type "KiCad") (uri "${KIPRJMOD}/Files/U.FL-R-SMT_01/U.FL-R-SMT_01_.kicad_sym") (options "") (descr ""))
+	(lib (name "U.FL-R-SMT_10_") (type "KiCad") (uri "${KIPRJMOD}/Files/U.FL-R-SMT_10_/U.FL-R-SMT_10_.kicad_sym") (options "") (descr ""))
+	(lib (name "693010020611") (type "KiCad") (uri "${KIPRJMOD}/Files/sim/693010020611.kicad_sym") (options "") (descr ""))
+	(lib (name "SMF05CT1G") (type "KiCad") (uri "${KIPRJMOD}/Files/SMF05CT1G/SMF05CT1G.kicad_sym") (options "") (descr ""))
+	(lib (name "C3E-8.000-8-1015-R") (type "KiCad") (uri "${KIPRJMOD}/Files/8MHz/C3E-8.000-8-1015-R.kicad_sym") (options "") (descr ""))
+)

@@ -1,0 +1,13 @@
+Plotted to 'D:\kicad\STM32 GPS Tracker\Gerber\STM32 GPS Tracker-F_Cu.gbr'.
+Plotted to 'D:\kicad\STM32 GPS Tracker\Gerber\STM32 GPS Tracker-In1_Cu.gbr'.
+Plotted to 'D:\kicad\STM32 GPS Tracker\Gerber\STM32 GPS Tracker-In2_Cu.gbr'.
+Plotted to 'D:\kicad\STM32 GPS Tracker\Gerber\STM32 GPS Tracker-B_Cu.gbr'.
+Plotted to 'D:\kicad\STM32 GPS Tracker\Gerber\STM32 GPS Tracker-F_Paste.gbr'.
+Plotted to 'D:\kicad\STM32 GPS Tracker\Gerber\STM32 GPS Tracker-B_Paste.gbr'.
+Plotted to 'D:\kicad\STM32 GPS Tracker\Gerber\STM32 GPS Tracker-F_Silkscreen.gbr'.
+Plotted to 'D:\kicad\STM32 GPS Tracker\Gerber\STM32 GPS Tracker-B_Silkscreen.gbr'.
+Plotted to 'D:\kicad\STM32 GPS Tracker\Gerber\STM32 GPS Tracker-F_Mask.gbr'.
+Plotted to 'D:\kicad\STM32 GPS Tracker\Gerber\STM32 GPS Tracker-B_Mask.gbr'.
+Plotted to 'D:\kicad\STM32 GPS Tracker\Gerber\STM32 GPS Tracker-Edge_Cuts.gbr'.
+Created Gerber job file 'D:\kicad\STM32 GPS Tracker\Gerber\STM32 GPS Tracker-job.gbrjob'.
+Info: Done.
